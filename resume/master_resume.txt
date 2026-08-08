@@ -1,0 +1,5 @@
+# Master Resume
+
+Add your verified master resume content here.
+
+Do not include API keys, passwords, or other secrets.
